@@ -27,5 +27,4 @@ Create Components
 ProductList Component: Displays the list of products with filtering and sorting options.
 
 # bash
-Copy code
 npm start
